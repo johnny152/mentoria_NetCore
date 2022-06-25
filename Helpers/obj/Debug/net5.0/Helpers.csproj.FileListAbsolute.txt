@@ -1,0 +1,12 @@
+C:\Users\yeloh\source\repos\ApiTest\Helpers\bin\Debug\net5.0\Helpers.deps.json
+C:\Users\yeloh\source\repos\ApiTest\Helpers\bin\Debug\net5.0\Helpers.dll
+C:\Users\yeloh\source\repos\ApiTest\Helpers\bin\Debug\net5.0\ref\Helpers.dll
+C:\Users\yeloh\source\repos\ApiTest\Helpers\bin\Debug\net5.0\Helpers.pdb
+C:\Users\yeloh\source\repos\ApiTest\Helpers\obj\Debug\net5.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\yeloh\source\repos\ApiTest\Helpers\obj\Debug\net5.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeloh\source\repos\ApiTest\Helpers\obj\Debug\net5.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\yeloh\source\repos\ApiTest\Helpers\obj\Debug\net5.0\Helpers.AssemblyInfo.cs
+C:\Users\yeloh\source\repos\ApiTest\Helpers\obj\Debug\net5.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\yeloh\source\repos\ApiTest\Helpers\obj\Debug\net5.0\Helpers.dll
+C:\Users\yeloh\source\repos\ApiTest\Helpers\obj\Debug\net5.0\ref\Helpers.dll
+C:\Users\yeloh\source\repos\ApiTest\Helpers\obj\Debug\net5.0\Helpers.pdb

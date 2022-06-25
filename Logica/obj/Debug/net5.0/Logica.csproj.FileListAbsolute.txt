@@ -1,0 +1,17 @@
+C:\Users\yeloh\source\repos\ApiTest\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\yeloh\source\repos\ApiTest\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\yeloh\source\repos\ApiTest\Logica\bin\Debug\net5.0\ref\Logica.dll
+C:\Users\yeloh\source\repos\ApiTest\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\yeloh\source\repos\ApiTest\Logica\bin\Debug\net5.0\Data.dll
+C:\Users\yeloh\source\repos\ApiTest\Logica\bin\Debug\net5.0\Helpers.dll
+C:\Users\yeloh\source\repos\ApiTest\Logica\bin\Debug\net5.0\Data.pdb
+C:\Users\yeloh\source\repos\ApiTest\Logica\bin\Debug\net5.0\Helpers.pdb
+C:\Users\yeloh\source\repos\ApiTest\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\yeloh\source\repos\ApiTest\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeloh\source\repos\ApiTest\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\yeloh\source\repos\ApiTest\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\yeloh\source\repos\ApiTest\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\yeloh\source\repos\ApiTest\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+C:\Users\yeloh\source\repos\ApiTest\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\yeloh\source\repos\ApiTest\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Users\yeloh\source\repos\ApiTest\Logica\obj\Debug\net5.0\Logica.pdb
